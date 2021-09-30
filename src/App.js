@@ -20,10 +20,10 @@ function App() {
     <div className="App">
       <Router>     
       <nav>
-        <NavLink className="navigationButton" activeClassName={"selected"} to="/HB"> 🏠 </NavLink>
+        <NavLink className="navigationButton" activeClassName={"selected"} to="/main"> 🏠 </NavLink>
         </nav>  
 <Switch>
-<Route exact path="/HB" component={Main} />
+<Route exact path="/main" component={Main} />
 <Route exact path="/success" component={SuccessPage} />
 <Route exact path="/second" component={SecondAnswer} />
 <Route exact path="/sorry" component={SorryPage} />
