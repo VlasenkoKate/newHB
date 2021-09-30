@@ -19,6 +19,9 @@ function App() {
   return (
     <div className="App">
       <Router>     
+      <nav>
+        <NavLink className="navigationButton" activeClassName={"selected"} to="/HB"> 🏠 </NavLink>
+        </nav>  
 <Switch>
 <Route exact path="/HB" component={Main} />
 <Route exact path="/success" component={SuccessPage} />
