@@ -20,13 +20,13 @@ function App() {
     <div className="App">
       <Router>     
 <Switch>
-<Route exact path="/HB" component={Main} />
-<Route exact path="/success" component={SuccessPage} />
-<Route exact path="/second" component={SecondAnswer} />
-<Route exact path="/sorry" component={SorryPage} />
-  <Route exact path="/first" component={FirstAnswer} />
-  <Route exact path="/third" component={ThirdAnswer} />
-  <Route exact path="/fourth" component={FourthAnswer} />
+<Route exact path="/newHB/HB" component={Main} />
+<Route exact path="/newHB/success" component={SuccessPage} />
+<Route exact path="/newHB/second" component={SecondAnswer} />
+<Route exact path="/newHB/sorry" component={SorryPage} />
+  <Route exact path="/newHB/first" component={FirstAnswer} />
+  <Route exact path="/newHB/third" component={ThirdAnswer} />
+  <Route exact path="/newHB/fourth" component={FourthAnswer} />
 </Switch>
 </Router>
     </div>
