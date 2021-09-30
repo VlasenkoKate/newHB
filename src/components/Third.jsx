@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import { Link, useHistory } from "react-router-dom";
-import cat3 from "/Users/ekaterinavlasenko/Documents/hbpes/src/assets/_NqcsTS6ce8bDnBNVQXbnNW2X0qXIAZRFjeCB64C3BI.png"
+import cat3 from "/Users/ekaterinavlasenko/Documents/hbpes/src/assets/NqcsTS6ce8bDnBNVQXbnNW2X0qXIAZRFjeCB64C3BI.png"
 import {
   Wrapper,
   SignForm,

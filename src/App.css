@@ -1,8 +1,7 @@
 nav {
   display: flex;
-  justify-content: flex-end;
-  margin-top: 2em;
-  margin-right: 20em;
+justify-content: center;
+margin-top: 2rem;
 }
 
 
@@ -10,9 +9,9 @@ nav {
   background: #21638f;
   color: #fff;
   border: 0.1rem solid #0d2c41;
-  padding: 0.55em 0.65em;
+  padding: 0.5em 0.5em;
   margin: 1rem;
-  font-size: 14px;
+  font-size: 18px;
   position: relative;
   z-index: 1;
   overflow: hidden;

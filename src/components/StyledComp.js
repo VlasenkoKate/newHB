@@ -66,7 +66,7 @@ export const Select = styled.select`
 
 
 export const SignButton = styled.button`
-margin-top: 20px;
+margin-top: 15px;
 height: 50px;
 background-color: lightskyblue;
 font-weight: 500;
@@ -78,14 +78,14 @@ box-shadow: none;
 `
 
 export const SuccessSorryImg = styled.img`
-width: 300px;
+width: 280px;
 margin: auto;
 
 
 `
 export const SuccessSorryWrapper = styled.div`
 width: 330px;
-padding-top: 50px;
+padding-top: 15px;
 display: flex;
 flex-direction: column;
 justify-content: center;

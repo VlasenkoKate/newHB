@@ -20,7 +20,7 @@ function App() {
     <div className="App">
       <Router>     
       <nav>
-        <NavLink className="navigationButton" activeClassName={"selected"} to="/main"> 🏠 </NavLink>
+        <NavLink className="navigationButton" activeClassName={"selected"} to="/main"> В начало </NavLink>
         </nav>  
 <Switch>
 <Route exact path="/main" component={Main} />

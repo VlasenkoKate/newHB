@@ -19,7 +19,7 @@ export default function SuccessPage() {
       Чтоб все так знали своих мужчин, как ты! 
       Лови ссылку на локацию и мчи за новыми впечатлениями!
       </Title>
-      <a href="https://goo.gl/maps/xMEHhMAPzcG2Kscu5" style={{textDecoration: 'none'}}><LinkText>Погнали!</LinkText></a>
+      <a href="https://goo.gl/maps/qn96cRENVrkzoCcy7" style={{textDecoration: 'none'}}><LinkText>Погнали!</LinkText></a>
       
       </SuccessSorryWrapper>
         
