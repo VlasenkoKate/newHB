@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/newHB/static/css/main.a66ae798.chunk.css",
-    "main.js": "/newHB/static/js/main.7fedd776.chunk.js",
-    "main.js.map": "/newHB/static/js/main.7fedd776.chunk.js.map",
+    "main.css": "/newHB/static/css/main.033f0d13.chunk.css",
+    "main.js": "/newHB/static/js/main.afef09fc.chunk.js",
+    "main.js.map": "/newHB/static/js/main.afef09fc.chunk.js.map",
     "runtime-main.js": "/newHB/static/js/runtime-main.e5f3f97f.js",
     "runtime-main.js.map": "/newHB/static/js/runtime-main.e5f3f97f.js.map",
     "static/js/2.3ffb3570.chunk.js": "/newHB/static/js/2.3ffb3570.chunk.js",
     "static/js/2.3ffb3570.chunk.js.map": "/newHB/static/js/2.3ffb3570.chunk.js.map",
     "index.html": "/newHB/index.html",
-    "static/css/main.a66ae798.chunk.css.map": "/newHB/static/css/main.a66ae798.chunk.css.map",
+    "static/css/main.033f0d13.chunk.css.map": "/newHB/static/css/main.033f0d13.chunk.css.map",
     "static/js/2.3ffb3570.chunk.js.LICENSE.txt": "/newHB/static/js/2.3ffb3570.chunk.js.LICENSE.txt",
     "static/media/125230-aleni.a9f461f6.png": "/newHB/static/media/125230-aleni.a9f461f6.png",
     "static/media/1617739191_12-p-koshka-oboi-plachushchii-kot-17.4e11c9f2.png": "/newHB/static/media/1617739191_12-p-koshka-oboi-plachushchii-kot-17.4e11c9f2.png",
     "static/media/5430624-cat-friendly-properties-happy-cat-free-transparent-png-happy-cat-png-820_678.89051335.png": "/newHB/static/media/5430624-cat-friendly-properties-happy-cat-free-transparent-png-happy-cat-png-820_678.89051335.png",
-    "static/media/_NqcsTS6ce8bDnBNVQXbnNW2X0qXIAZRFjeCB64C3BI.1cfc928b.png": "/newHB/static/media/_NqcsTS6ce8bDnBNVQXbnNW2X0qXIAZRFjeCB64C3BI.1cfc928b.png",
+    "static/media/NqcsTS6ce8bDnBNVQXbnNW2X0qXIAZRFjeCB64C3BI.1cfc928b.png": "/newHB/static/media/NqcsTS6ce8bDnBNVQXbnNW2X0qXIAZRFjeCB64C3BI.1cfc928b.png",
     "static/media/bae04acf98b9be5f18f48e8ff4428b54.090fd7e6.png": "/newHB/static/media/bae04acf98b9be5f18f48e8ff4428b54.090fd7e6.png",
     "static/media/maxresdefault.ee257bdb.png": "/newHB/static/media/maxresdefault.ee257bdb.png",
     "static/media/ддддд.c5bde4a9.png": "/newHB/static/media/ддддд.c5bde4a9.png"
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.e5f3f97f.js",
     "static/js/2.3ffb3570.chunk.js",
-    "static/css/main.a66ae798.chunk.css",
-    "static/js/main.7fedd776.chunk.js"
+    "static/css/main.033f0d13.chunk.css",
+    "static/js/main.afef09fc.chunk.js"
   ]
 }
